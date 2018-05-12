@@ -1,12 +1,39 @@
 
 *{
   background-color: black;
-  text-align: center;
-}
-h1{
   font-family: Verdana;
+
+}
+*Main_Header h1{
   font-weight: normal;
   font-size: 50px;
-  color: white;
   text-align: center;
+
+}
+h1{
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
+  text-align: center;
+}
+
+h3{
+  color: grey;
+  font-size: 21px;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+a{
+  color: aquamarine;
+}
+p{
+  text-align: center;
+}
+.footer p {
+  font-size: 18px;
+  text-align: right;
+  color: gray;
 }
